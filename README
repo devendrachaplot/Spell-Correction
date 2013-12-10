@@ -1,0 +1,10 @@
+To show sample run of kernighan,
+
+and write the incorrect spellings in the file named 'testcases' and do 
+
+java kernighan
+
+
+To run kernighan on a fold, make changes in kernighan5fold.java on lines 62 and 91 (changes the numbers in the file names)
+The output will be the % accuracy.
+To get actual best matches, uncomment line125
